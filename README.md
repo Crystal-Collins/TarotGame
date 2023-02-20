@@ -3,6 +3,9 @@ A simple python tarot game.
 
 Libraries: 
 - Pygame
+- Random
+- Tkinter
+- Glob
 
 Status: 
 - Ongoing
