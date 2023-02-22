@@ -5,11 +5,11 @@
 MARGIN_LEFT = 230
 MARGIN_TOP = 150
 
-# WINDOW SIZE
+# Window size
 WIDTH = 800
 HEIGHT = 600
 
-# COLORS
+# Colors
 black = (0, 0, 0)
 white = (255, 255, 255)
 cyan = (0, 255, 255)
@@ -21,4 +21,8 @@ berry = (139, 58, 98)
 deep_sea = (105, 139, 105)
 grey = (59, 59, 59)
 
-#pass
+# Fonts
+small_font = pygame.font.Font(None, 32)
+large_font = pygame.font.Font(None, 50)
+
+Pass
